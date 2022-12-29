@@ -26,6 +26,10 @@ The data comes from the **National 2009 H1N1 Flu Survey (NHFS)**.
 ## Technologies Used
 - Python
 - Jupyter Notebook
+- Pandas
+- Numpy
+- Matplotlib
+- Scikit-learn
 
 ## Getting Started
 ### Cloning the repository
