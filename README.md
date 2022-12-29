@@ -37,3 +37,6 @@ Use the <a href="https://docs.github.com/en/repositories/creating-and-managing-r
 
 ### Raw Data
 The datasets can be found <a href="https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/">here</a>
+
+
+![alt text](https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b761127b602110641413a4158b121329f65abb5979c7b&rid=giphy.gif&ct=g)
