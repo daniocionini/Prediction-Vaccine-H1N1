@@ -1,4 +1,3 @@
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -9,7 +8,7 @@ l_train = pd.read_csv('./data/training_set_labels.csv', index_col=0)
 j_train = f_train.join(l_train)
 
 
-#%%%%%%%%%%%% --this is to add to the jupyter notebook
+
 from sklearn.preprocessing import StandardScaler
 from sklearn.impute import SimpleImputer
 from sklearn.compose import ColumnTransformer
